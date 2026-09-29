@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="[ENLACE A LA COMUNIDAD EN ROBLOX]">Comunidad en Roblox</a> ·
+  <a href="https://www.roblox.com/share/g/235644763">Comunidad en Roblox</a> ·
   <a href="[ENLACE AL DISCORD]">Discord</a> ·
   <a href="[ENLACE A REDES SOCIALES]">Redes sociales</a>
 </p>
@@ -33,7 +33,7 @@
 
 | Juego | Estado | Jugar |
 | :-- | :-- | :-- |
-| [NOMBRE DEL PRIMER JUEGO] | En desarrollo | Próximamente |
+| En Proceso... | En desarrollo | Próximamente |
 
 ## Cómo trabajamos
 
